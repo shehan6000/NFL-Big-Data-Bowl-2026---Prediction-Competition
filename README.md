@@ -1,4 +1,5 @@
-# NFL Big Data Bowl 2026 - Prediction Competition Documentation
+# NFL Big Data Bowl 2026 - Prediction Competition 
+
 
 ## Table of Contents
 1. [Competition Overview](#competition-overview)
